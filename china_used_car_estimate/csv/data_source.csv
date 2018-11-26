@@ -1,0 +1,4 @@
+name,table_name,description
+线上车源,pingjia.car_source,"线上车源表,由爬虫抓取整理"
+app端车源,pingjia.deal_records,"app端数据来源,包含天天拍,包括零售价,收购价"
+人工录入车源,valuate.valuate_management_manual_entry,人工录入表

@@ -1,0 +1,11 @@
+price_slug,name,spider_support,description
+sell,商家收购价,1,C2B
+buy,商家零售价,1,B2C真实售价
+release,建议标价,0,B2C标价
+private,个人交易价,1,C2C
+lowest,最低成交价,0,B2C
+cpo,认证二手车,0,"B2C,车况最好"
+replace,4S店置换价,0,
+auction,商家批发价,0,
+avg-buy,平均零售价,0,
+avg-sell,平均收购价,0,
